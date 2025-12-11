@@ -1,9 +1,7 @@
 #cosas a cambiar:
 #2. Calcular valuebets con valor esperado
 #3. Cambiar normalización de spreads y totals, las acabadas en entero normalizar teniendo en cuenta la probabilidad de clavar el numero
-#7. Que guarde todos los avisos que envía en un google sheets
 #8. Añadir calculo surebets
-#9. Ver por que en algunos partidos (creo que live) la mitad de casas ponen unas cuotas parecidas y la otra mitad otras cuotas (parece que hay dos bloques)
 
 import requests
 import json
